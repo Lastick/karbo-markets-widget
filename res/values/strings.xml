@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">KarboMarketsWidget</string>
-    <string name="widget_name">My first widget</string>
-    <string name="widget_text">Text in widget</string>
+  <string name="app_name">KarboMarketsWidget</string>
+  <string name="widget_name">KarboMarketsWidget</string>
+  <string name="ticker_text">- - -</string>
 
 </resources>
